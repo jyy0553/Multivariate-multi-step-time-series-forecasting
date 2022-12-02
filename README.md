@@ -7,3 +7,20 @@
 4、模型的多步预测
 5、多步预测结果的可视化
 6、结果导出
+
+## DEPENDENCIES
+
+- python 3.5+
+- numpy
+- pytorch 1.12+
+- scikit-learn (sklearn)
+- pandas
+
+
+## RUN
+
+You can run this model by:
+
+```
+python main_process.py
+```
